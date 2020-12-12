@@ -1,0 +1,38 @@
+{
+    "bom_export_settings": {
+        "concrete_parts": {},
+        "csv_settings": {
+            "columns": [
+                "QTY",
+                "MPN",
+                "value",
+                "manufacturer",
+                "refdes"
+            ],
+            "order": "asc",
+            "sort_column": "refdes"
+        },
+        "orderable_MPNs": {},
+        "output_filename": ""
+    },
+    "buses": {},
+    "components": {},
+    "group_names": {},
+    "name": "",
+    "net_class_default": "96e5bc2a-8624-4335-9034-2a1d633a4c7f",
+    "net_classes": {
+        "96e5bc2a-8624-4335-9034-2a1d633a4c7f": {
+            "name": "default"
+        }
+    },
+    "nets": {},
+    "project_meta": {
+        "author": "Stephanie Wilde-Hobbs",
+        "date": "2020-12-12",
+        "project_name": "wifi-headphones",
+        "project_title": "WiFi Headphones",
+        "rev": "1"
+    },
+    "tag_names": {},
+    "uuid": "3a74ee24-0329-42b8-bf95-03a66c8c95b3"
+}
