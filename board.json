@@ -19,7 +19,63 @@
         "drill_mode": "merged",
         "drill_npth": "-npth.txt",
         "drill_pth": ".txt",
-        "layers": {},
+        "layers": {
+            "-1": {
+                "enabled": true,
+                "filename": "",
+                "layer": -1
+            },
+            "-100": {
+                "enabled": true,
+                "filename": ".gbl",
+                "layer": -100
+            },
+            "-110": {
+                "enabled": true,
+                "filename": ".gbs",
+                "layer": -110
+            },
+            "-120": {
+                "enabled": true,
+                "filename": ".gbo",
+                "layer": -120
+            },
+            "-130": {
+                "enabled": true,
+                "filename": ".gbp",
+                "layer": -130
+            },
+            "-2": {
+                "enabled": true,
+                "filename": "",
+                "layer": -2
+            },
+            "0": {
+                "enabled": true,
+                "filename": ".gtl",
+                "layer": 0
+            },
+            "10": {
+                "enabled": true,
+                "filename": ".gts",
+                "layer": 10
+            },
+            "100": {
+                "enabled": true,
+                "filename": ".gko",
+                "layer": 100
+            },
+            "20": {
+                "enabled": true,
+                "filename": ".gto",
+                "layer": 20
+            },
+            "30": {
+                "enabled": true,
+                "filename": ".gtp",
+                "layer": 30
+            }
+        },
         "output_directory": "",
         "prefix": "wifi-headphones",
         "zip_output": false
@@ -28,12 +84,166 @@
     "junctions": {},
     "keepouts": {},
     "lines": {},
-    "n_inner_layers": 0,
+    "n_inner_layers": 2,
     "name": "",
     "packages": {},
     "pdf_export_settings": {
         "holes_diameter": 0,
-        "layers": {},
+        "layers": {
+            "-1": {
+                "color": {
+                    "b": 0.0,
+                    "g": 0.0,
+                    "r": 0.0
+                },
+                "enabled": false,
+                "mode": "outline"
+            },
+            "-100": {
+                "color": {
+                    "b": 0.0,
+                    "g": 0.0,
+                    "r": 0.0
+                },
+                "enabled": false,
+                "mode": "outline"
+            },
+            "-110": {
+                "color": {
+                    "b": 0.0,
+                    "g": 0.0,
+                    "r": 0.0
+                },
+                "enabled": false,
+                "mode": "outline"
+            },
+            "-120": {
+                "color": {
+                    "b": 0.0,
+                    "g": 0.0,
+                    "r": 0.0
+                },
+                "enabled": false,
+                "mode": "outline"
+            },
+            "-130": {
+                "color": {
+                    "b": 0.0,
+                    "g": 0.0,
+                    "r": 0.0
+                },
+                "enabled": false,
+                "mode": "outline"
+            },
+            "-140": {
+                "color": {
+                    "b": 0.0,
+                    "g": 0.0,
+                    "r": 0.0
+                },
+                "enabled": false,
+                "mode": "outline"
+            },
+            "-150": {
+                "color": {
+                    "b": 0.0,
+                    "g": 0.0,
+                    "r": 0.0
+                },
+                "enabled": false,
+                "mode": "outline"
+            },
+            "-2": {
+                "color": {
+                    "b": 0.0,
+                    "g": 0.0,
+                    "r": 0.0
+                },
+                "enabled": false,
+                "mode": "outline"
+            },
+            "0": {
+                "color": {
+                    "b": 0.0,
+                    "g": 0.0,
+                    "r": 0.0
+                },
+                "enabled": false,
+                "mode": "outline"
+            },
+            "10": {
+                "color": {
+                    "b": 0.0,
+                    "g": 0.0,
+                    "r": 0.0
+                },
+                "enabled": false,
+                "mode": "outline"
+            },
+            "100": {
+                "color": {
+                    "b": 0.0,
+                    "g": 0.0,
+                    "r": 0.0
+                },
+                "enabled": true,
+                "mode": "outline"
+            },
+            "10000": {
+                "color": {
+                    "b": 0.0,
+                    "g": 0.0,
+                    "r": 0.0
+                },
+                "enabled": false,
+                "mode": "outline"
+            },
+            "110": {
+                "color": {
+                    "b": 0.0,
+                    "g": 0.0,
+                    "r": 0.0
+                },
+                "enabled": true,
+                "mode": "outline"
+            },
+            "20": {
+                "color": {
+                    "b": 0.0,
+                    "g": 0.0,
+                    "r": 0.0
+                },
+                "enabled": false,
+                "mode": "outline"
+            },
+            "30": {
+                "color": {
+                    "b": 0.0,
+                    "g": 0.0,
+                    "r": 0.0
+                },
+                "enabled": false,
+                "mode": "outline"
+            },
+            "40": {
+                "color": {
+                    "b": 0.0,
+                    "g": 0.0,
+                    "r": 0.0
+                },
+                "enabled": false,
+                "mode": "outline"
+            },
+            "50": {
+                "color": {
+                    "b": 0.0,
+                    "g": 0.0,
+                    "r": 0.0
+                },
+                "enabled": true,
+                "mode": "outline"
+            }
+        },
         "min_line_width": 0,
         "mirror": false,
         "output_filename": "",
@@ -58,7 +268,7 @@
     "polygons": {},
     "rules": {
         "clearance_copper": {
-            "82e90cce-0913-4ac5-a44e-0afda6b65447": {
+            "6af33e0d-713e-4097-8f7d-8b9465d5167a": {
                 "clearances": [
                     {
                         "clearance": 100000,
@@ -131,7 +341,7 @@
                         ]
                     },
                     {
-                        "clearance": 100000,
+                        "clearance": 90000,
                         "types": [
                             "track",
                             "track"
@@ -166,7 +376,7 @@
                         ]
                     },
                     {
-                        "clearance": 100000,
+                        "clearance": 200000,
                         "types": [
                             "track",
                             "hole_pth"
@@ -222,7 +432,7 @@
                         ]
                     },
                     {
-                        "clearance": 100000,
+                        "clearance": 200000,
                         "types": [
                             "pad",
                             "hole_pth"
@@ -271,7 +481,7 @@
                         ]
                     },
                     {
-                        "clearance": 100000,
+                        "clearance": 200000,
                         "types": [
                             "pad_th",
                             "hole_pth"
@@ -299,7 +509,7 @@
                         ]
                     },
                     {
-                        "clearance": 100000,
+                        "clearance": 275000,
                         "types": [
                             "via",
                             "via"
@@ -313,7 +523,7 @@
                         ]
                     },
                     {
-                        "clearance": 100000,
+                        "clearance": 400000,
                         "types": [
                             "via",
                             "hole_pth"
@@ -348,7 +558,7 @@
                         ]
                     },
                     {
-                        "clearance": 100000,
+                        "clearance": 200000,
                         "types": [
                             "plane",
                             "hole_pth"
@@ -376,7 +586,7 @@
                         ]
                     },
                     {
-                        "clearance": 100000,
+                        "clearance": 200000,
                         "types": [
                             "hole_pth",
                             "hole_pth"
@@ -451,13 +661,13 @@
                 "match_1": {
                     "mode": "all",
                     "net": "00000000-0000-0000-0000-000000000000",
-                    "net_class": "00000000-0000-0000-0000-000000000000",
+                    "net_class": "96e5bc2a-8624-4335-9034-2a1d633a4c7f",
                     "net_name_regex": ""
                 },
                 "match_2": {
                     "mode": "all",
                     "net": "00000000-0000-0000-0000-000000000000",
-                    "net_class": "00000000-0000-0000-0000-000000000000",
+                    "net_class": "96e5bc2a-8624-4335-9034-2a1d633a4c7f",
                     "net_name_regex": ""
                 },
                 "order": 0,
@@ -466,14 +676,14 @@
         },
         "clearance_copper_keepout": {},
         "clearance_copper_other": {
-            "67a03dc9-a3e4-46cc-a771-01d4ebbfbdda": {
+            "3e3a34f9-47c8-4b49-87a8-37ad3326b31d": {
                 "clearances": [],
                 "enabled": true,
                 "layer": 10000,
                 "match": {
                     "mode": "all",
                     "net": "00000000-0000-0000-0000-000000000000",
-                    "net_class": "00000000-0000-0000-0000-000000000000",
+                    "net_class": "96e5bc2a-8624-4335-9034-2a1d633a4c7f",
                     "net_name_regex": ""
                 },
                 "order": 0,
@@ -482,8 +692,8 @@
         },
         "clearance_same_net": {},
         "clearance_silkscreen_exposed_copper": {
-            "clearance_bottom": 100000,
-            "clearance_top": 100000,
+            "clearance_bottom": 150000,
+            "clearance_top": 150000,
             "enabled": true,
             "order": -1
         },
@@ -492,20 +702,20 @@
         "parameters": {
             "courtyard_expansion": 250000,
             "enabled": true,
-            "hole_solder_mask_expansion": 100000,
+            "hole_solder_mask_expansion": 50000,
             "order": -1,
             "paste_mask_contraction": 0,
-            "solder_mask_expansion": 100000,
-            "via_solder_mask_expansion": 100000
+            "solder_mask_expansion": 50000,
+            "via_solder_mask_expansion": 50000
         },
         "plane": {
-            "0952fb7a-824a-45ba-9bba-37873b9d32c0": {
+            "87e2f721-0308-4995-84ac-29e3cdc0894f": {
                 "enabled": true,
                 "layer": 10000,
                 "match": {
                     "mode": "all",
                     "net": "00000000-0000-0000-0000-000000000000",
-                    "net_class": "00000000-0000-0000-0000-000000000000",
+                    "net_class": "96e5bc2a-8624-4335-9034-2a1d633a4c7f",
                     "net_name_regex": ""
                 },
                 "order": 0,
@@ -516,7 +726,7 @@
                     "hatch_line_spacing": 500000,
                     "hatch_line_width": 200000,
                     "keep_orphans": false,
-                    "min_width": 200000,
+                    "min_width": 90000,
                     "style": "round",
                     "text_style": "expand",
                     "thermal_gap_width": 200000,
@@ -525,48 +735,75 @@
             }
         },
         "track_width": {
-            "aed87d04-921c-4f39-b999-0f4429ca9725": {
+            "6e035e37-9b84-41ff-81aa-f2fad4b7aaf4": {
                 "enabled": true,
                 "match": {
                     "mode": "all",
                     "net": "00000000-0000-0000-0000-000000000000",
-                    "net_class": "00000000-0000-0000-0000-000000000000",
+                    "net_class": "96e5bc2a-8624-4335-9034-2a1d633a4c7f",
                     "net_name_regex": ""
                 },
                 "order": 0,
                 "widths": {
+                    "-1": {
+                        "def": 200000,
+                        "max": 10000000,
+                        "min": 90000
+                    },
                     "-100": {
                         "def": 200000,
                         "max": 10000000,
-                        "min": 100000
+                        "min": 90000
+                    },
+                    "-2": {
+                        "def": 200000,
+                        "max": 10000000,
+                        "min": 90000
                     },
                     "0": {
                         "def": 200000,
                         "max": 10000000,
-                        "min": 100000
+                        "min": 90000
                     }
                 }
             }
         },
         "via": {
-            "68483555-ed21-4be7-8160-506930914378": {
+            "3539d4a3-06dd-418d-a27f-75d1493a4edc": {
                 "enabled": true,
                 "match": {
                     "mode": "all",
                     "net": "00000000-0000-0000-0000-000000000000",
-                    "net_class": "00000000-0000-0000-0000-000000000000",
+                    "net_class": "96e5bc2a-8624-4335-9034-2a1d633a4c7f",
                     "net_name_regex": ""
                 },
                 "order": 0,
                 "padstack": "3c4a52fe-3ae0-4c3e-a108-824b53d6d6da",
                 "parameter_set": {
                     "hole_diameter": 200000,
-                    "via_diameter": 500000
+                    "via_diameter": 450000
                 }
             }
         }
     },
-    "stackup": {},
+    "stackup": {
+        "-1": {
+            "substrate_thickness": 1065000,
+            "thickness": 17500
+        },
+        "-100": {
+            "substrate_thickness": 0,
+            "thickness": 35000
+        },
+        "-2": {
+            "substrate_thickness": 200000,
+            "thickness": 17500
+        },
+        "0": {
+            "substrate_thickness": 200000,
+            "thickness": 35000
+        }
+    },
     "step_export_settings": {
         "filename": "",
         "include_3d_models": true,
