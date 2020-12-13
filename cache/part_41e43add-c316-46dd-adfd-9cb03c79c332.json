@@ -1,0 +1,38 @@
+{
+    "MPN": [
+        false,
+        "CPF0603B120KE"
+    ],
+    "base": "cbc32529-a331-4a21-9f35-f597fb2adf1b",
+    "datasheet": [
+        true,
+        "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F1773200%7FN%7Fpdf%7FEnglish%7FENG_DS_1773200_N.pdf"
+    ],
+    "description": [
+        false,
+        "Thin Film Precision Resistor, 120 kΩ, 0.1%, 0.063 W"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "TE Connectivity"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "0147c759-2540-40c5-a201-a58ec752550f": "CPF0603B120KE1"
+    },
+    "parametric": {
+        "pmax": "0.063",
+        "table": "resistors",
+        "tolerance": "0.1",
+        "value": "120000"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "41e43add-c316-46dd-adfd-9cb03c79c332",
+    "value": [
+        false,
+        "120 kΩ"
+    ]
+}

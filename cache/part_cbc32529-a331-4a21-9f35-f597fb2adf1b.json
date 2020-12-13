@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "CPF0603 base part"
+    ],
+    "base": "cbeda48c-7fb0-4cfb-a4de-d9672e8cc190",
+    "datasheet": [
+        false,
+        "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F1773200%7FN%7Fpdf%7FEnglish%7FENG_DS_1773200_N.pdf"
+    ],
+    "description": [
+        false,
+        "Thin Film Precision Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "TE Connectivity"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {
+        "pmax": "0.063",
+        "table": "resistors",
+        "tolerance": "0",
+        "value": "0"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "cbc32529-a331-4a21-9f35-f597fb2adf1b",
+    "value": [
+        true,
+        "base 0603 resistor"
+    ]
+}
