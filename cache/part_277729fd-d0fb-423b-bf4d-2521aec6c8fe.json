@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "RC0603FR-071ML"
+    ],
+    "base": "f09213fb-baf4-4285-ab94-46fe3ca9ec7a",
+    "datasheet": [
+        true,
+        "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_9.pdf"
+    ],
+    "description": [
+        false,
+        "General Purpose Chip resistor 1 MΩ, 1%, 0.1 W"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Yageo"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {
+        "pmax": "0.1",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "1e+06"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "277729fd-d0fb-423b-bf4d-2521aec6c8fe",
+    "value": [
+        false,
+        "1 MΩ"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "RC0603FR-07187KL"
+    ],
+    "base": "f09213fb-baf4-4285-ab94-46fe3ca9ec7a",
+    "datasheet": [
+        true,
+        "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_9.pdf"
+    ],
+    "description": [
+        false,
+        "General Purpose Chip resistor 187 kΩ, 1%, 0.1 W"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Yageo"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {
+        "pmax": "0.1",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "187000"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "aba33b0b-4129-4e1f-9ab5-b9216987f600",
+    "value": [
+        false,
+        "187 kΩ"
+    ]
+}
