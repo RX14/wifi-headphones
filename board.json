@@ -265,7 +265,62 @@
         "mode": "merged",
         "output_directory": ""
     },
-    "polygons": {},
+    "polygons": {
+        "7d66a463-e046-49d4-85de-c6e64b10fdf9": {
+            "layer": 100,
+            "parameter_class": "",
+            "vertices": [
+                {
+                    "arc_center": [
+                        -13250000,
+                        -20000000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -17000000,
+                        -25000000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        -13250000,
+                        20000000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -17000000,
+                        25000000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        13250000,
+                        20000000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        17000000,
+                        25000000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        13250000,
+                        -20000000
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        17000000,
+                        -25000000
+                    ],
+                    "type": "line"
+                }
+            ]
+        }
+    },
     "rules": {
         "clearance_copper": {
             "6af33e0d-713e-4097-8f7d-8b9465d5167a": {
