@@ -94,7 +94,7 @@
             "group": "00000000-0000-0000-0000-000000000000",
             "part": "61d80c91-b443-4744-9fb2-b974a985733c",
             "pin_names": {},
-            "refdes": "U103",
+            "refdes": "U102",
             "tag": "44145ba9-185a-4845-8aa6-47f291c22e5a",
             "value": ""
         },
@@ -283,7 +283,7 @@
             "group": "00000000-0000-0000-0000-000000000000",
             "part": "2c6f1fa8-c094-4d45-8fe5-a6bb9afaeeda",
             "pin_names": {},
-            "refdes": "U101",
+            "refdes": "J101",
             "tag": "135afcf0-8325-4b2e-a6ec-a11a561e2dee",
             "value": ""
         },
@@ -343,7 +343,7 @@
             "group": "00000000-0000-0000-0000-000000000000",
             "part": "ae14f6d5-99ad-4dd0-97d2-d3cbe68afb10",
             "pin_names": {},
-            "refdes": "U102",
+            "refdes": "U101",
             "tag": "3c3ecdce-c91a-4e73-9111-ac6104c6773b",
             "value": ""
         }
