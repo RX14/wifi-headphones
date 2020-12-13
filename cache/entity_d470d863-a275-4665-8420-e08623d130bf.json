@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "fde3dff4-cd57-40cd-a3eb-7e6d91ff1609": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "8c553b72-1271-4b98-80c2-326f70a45315"
+        }
+    },
+    "manufacturer": "Texas Instruments",
+    "name": "BQ21062",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "d470d863-a275-4665-8420-e08623d130bf"
+}

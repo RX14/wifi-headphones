@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "RC0603FR-07100KL"
+    ],
+    "base": "f09213fb-baf4-4285-ab94-46fe3ca9ec7a",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "General Purpose Chip resistor 100 kΩ, 1%, 0.1 W"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Yageo"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {
+        "pmax": "0.1",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "100000"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "c036c950-0b50-4a2f-b6b8-716eeaf18352",
+    "value": [
+        false,
+        "100 kΩ"
+    ]
+}

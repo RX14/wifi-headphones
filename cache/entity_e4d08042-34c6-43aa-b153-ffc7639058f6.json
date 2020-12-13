@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "2d3bd29d-19d4-4956-9e05-541aeefd808d": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "62235a22-d8fb-4bc4-bee2-e1212acb4354"
+        }
+    },
+    "manufacturer": "",
+    "name": "Adjustible voltage regulator with enable",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "regulator"
+    ],
+    "type": "entity",
+    "uuid": "e4d08042-34c6-43aa-b153-ffc7639058f6"
+}

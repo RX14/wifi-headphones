@@ -1,0 +1,113 @@
+{
+    "MPN": [
+        false,
+        "BQ21062"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ti.com/lit/gpn/bq21062"
+    ],
+    "description": [
+        false,
+        "500mA 1-cell Linear Battery Charger with Power Path"
+    ],
+    "entity": "d470d863-a275-4665-8420-e08623d130bf",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "1c54e712-b6a9-4707-baac-18fdcd526b4c",
+    "pad_map": {
+        "11b7131b-7ac0-4172-8889-504d1138c23c": {
+            "gate": "fde3dff4-cd57-40cd-a3eb-7e6d91ff1609",
+            "pin": "29469fa8-6f07-49cb-b3f5-4e2ccdc3aa76"
+        },
+        "4e653822-a7d6-438c-b3a0-0cbea3704dde": {
+            "gate": "fde3dff4-cd57-40cd-a3eb-7e6d91ff1609",
+            "pin": "eef052cf-ece0-49bc-92cb-8e71c6b63655"
+        },
+        "52d8d73c-e8b7-474f-acdb-8f1ed7dfc795": {
+            "gate": "fde3dff4-cd57-40cd-a3eb-7e6d91ff1609",
+            "pin": "412b6de0-0e5d-4712-82e7-c7e36b96304c"
+        },
+        "5c2012ba-61b2-4c45-8232-c43ab0ac884b": {
+            "gate": "fde3dff4-cd57-40cd-a3eb-7e6d91ff1609",
+            "pin": "0829609a-0ac9-416a-b915-e2fcc438ebd4"
+        },
+        "630cc6fa-a2d6-4c35-ae5a-7968eb5c2b00": {
+            "gate": "fde3dff4-cd57-40cd-a3eb-7e6d91ff1609",
+            "pin": "41c07822-2371-4d0e-a13d-764c585aab28"
+        },
+        "6ac81ab8-25d5-4f8f-8f37-6323d98b0934": {
+            "gate": "fde3dff4-cd57-40cd-a3eb-7e6d91ff1609",
+            "pin": "3c77f603-fa47-458e-8e7b-e4dc572d6eac"
+        },
+        "6d690273-a453-4bc1-a34c-48458538f4e9": {
+            "gate": "fde3dff4-cd57-40cd-a3eb-7e6d91ff1609",
+            "pin": "08eb85d2-8f9a-4aff-8db2-852f420c56ac"
+        },
+        "83cdecf2-97a3-451d-b275-e553a8556985": {
+            "gate": "fde3dff4-cd57-40cd-a3eb-7e6d91ff1609",
+            "pin": "ea0671f0-67a4-4613-914e-60b16c7bc329"
+        },
+        "898ecbb6-48d2-4022-9229-dd2982b83fbe": {
+            "gate": "fde3dff4-cd57-40cd-a3eb-7e6d91ff1609",
+            "pin": "88e776d8-a641-40aa-bea2-5b5e093b8515"
+        },
+        "8a264a34-69a0-432d-8472-c2222efe095e": {
+            "gate": "fde3dff4-cd57-40cd-a3eb-7e6d91ff1609",
+            "pin": "130a01a8-0acd-4fcf-a5a9-55df9980d971"
+        },
+        "9d0cb640-8b97-4bb4-86bf-51f416aba244": {
+            "gate": "fde3dff4-cd57-40cd-a3eb-7e6d91ff1609",
+            "pin": "86ef6b4b-df6e-4a8c-889d-1fffb8931402"
+        },
+        "a032d9c6-4e84-4738-8e8f-dba128eef921": {
+            "gate": "fde3dff4-cd57-40cd-a3eb-7e6d91ff1609",
+            "pin": "bfecc36c-ff5a-47c0-bcb6-d5135104ab59"
+        },
+        "bc71625f-04fc-40e5-a349-148a4e16cc46": {
+            "gate": "fde3dff4-cd57-40cd-a3eb-7e6d91ff1609",
+            "pin": "6f0835e4-aa19-4021-b69f-e4a624956b5d"
+        },
+        "d5645c27-8389-4e03-9807-3925a0b41b2e": {
+            "gate": "fde3dff4-cd57-40cd-a3eb-7e6d91ff1609",
+            "pin": "6f0835e4-aa19-4021-b69f-e4a624956b5d"
+        },
+        "db0a7ca7-3885-4947-9219-571c054cb44e": {
+            "gate": "fde3dff4-cd57-40cd-a3eb-7e6d91ff1609",
+            "pin": "1a66da5e-557a-444e-a7ad-2090db82c63f"
+        },
+        "e46d4169-da7b-4d72-b0a6-d1b1d0cbc105": {
+            "gate": "fde3dff4-cd57-40cd-a3eb-7e6d91ff1609",
+            "pin": "6262091b-3a65-43d8-8808-c52d176cc8a0"
+        },
+        "e4724200-7cea-40d6-b8d6-a43391c3aa2d": {
+            "gate": "fde3dff4-cd57-40cd-a3eb-7e6d91ff1609",
+            "pin": "3f0d2739-926a-43d8-975b-8074593177a8"
+        },
+        "e5835ff0-2169-459e-8bb0-4b452cf9d02d": {
+            "gate": "fde3dff4-cd57-40cd-a3eb-7e6d91ff1609",
+            "pin": "99b521a2-bd0e-4d81-b9a6-7e7b93fa9f06"
+        },
+        "f1482fd0-0d19-4513-9783-0ee4ccca7bd2": {
+            "gate": "fde3dff4-cd57-40cd-a3eb-7e6d91ff1609",
+            "pin": "1a66da5e-557a-444e-a7ad-2090db82c63f"
+        },
+        "fe2fa9ea-f68d-4215-90b1-f7495cb46bd0": {
+            "gate": "fde3dff4-cd57-40cd-a3eb-7e6d91ff1609",
+            "pin": "ad725ed0-cd99-444a-af69-dca675c27345"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "ae14f6d5-99ad-4dd0-97d2-d3cbe68afb10",
+    "value": [
+        false,
+        ""
+    ]
+}

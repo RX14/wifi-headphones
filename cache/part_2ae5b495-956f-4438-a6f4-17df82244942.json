@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "Taiyo Yuden C1210 base"
+    ],
+    "base": "ce744d78-f7d9-4997-8666-fd10d77eccb6",
+    "datasheet": [
+        false,
+        "https://www.yuden.co.jp/productdata/catalog/mlcc_all_e.pdf"
+    ],
+    "description": [
+        false,
+        "Multilayer ceramic capacitor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Taiyo Yuden"
+    ],
+    "model": "43bad17b-ab78-4d5a-8cc8-f5c0fcafe87f",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "2ae5b495-956f-4438-a6f4-17df82244942",
+    "value": [
+        true,
+        "base 1210 capacitor"
+    ]
+}

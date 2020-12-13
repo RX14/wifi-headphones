@@ -1,0 +1,151 @@
+{
+    "holes": {},
+    "name": "BGA",
+    "padstack_type": "top",
+    "parameter_program": "get-parameter [ pad_diameter ]\ndup\nset-shape [ pad circle ]\nget-parameter [ solder_mask_expansion ]\n+\nset-shape [ mask circle ]\n\nget-parameter [ pad_diameter ] dup\nget-parameter [ corner_radius ] 2 * -\ndupc\nset-shape [ paste1 rectangle ]\nswap\nset-shape [ paste2 rectangle ]\n\nget-parameter [ corner_radius ] 2 *\ndup dup dup\nset-shape [ paste_corner1 circle ]\nset-shape [ paste_corner2 circle ]\nset-shape [ paste_corner3 circle ]\nset-shape [ paste_corner4 circle ]\n\nget-parameter [ pad_diameter ] 2 /\nget-parameter [ corner_radius ] -\ndup\ndupc dupc dupc\nset-shape [ paste_corner1 position ]\n-1 *\nset-shape [ paste_corner2 position ]\n-1 * swap\nset-shape [ paste_corner3 position ]\n-1 * swap -1 *\nset-shape [ paste_corner4 position ]",
+    "parameter_set": {
+        "corner_radius": 50000,
+        "pad_diameter": 500000,
+        "solder_mask_expansion": 100000
+    },
+    "parameters_required": [
+        "pad_diameter",
+        "corner_radius"
+    ],
+    "polygons": {},
+    "shapes": {
+        "1c704a76-fd46-4eb4-b5e7-310db049c025": {
+            "form": "circle",
+            "layer": 30,
+            "parameter_class": "paste_corner2",
+            "params": [
+                100000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    200000,
+                    -200000
+                ]
+            }
+        },
+        "3f9e2d73-658b-4f88-8c74-107bcccf7418": {
+            "form": "circle",
+            "layer": 10,
+            "parameter_class": "mask",
+            "params": [
+                600000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        },
+        "5d1bdf8d-2dc7-4a16-be06-586456d15b87": {
+            "form": "rectangle",
+            "layer": 30,
+            "parameter_class": "paste2",
+            "params": [
+                400000,
+                500000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        },
+        "6d69ed41-e1de-4b2a-a497-ffe07687a62a": {
+            "form": "circle",
+            "layer": 0,
+            "parameter_class": "pad",
+            "params": [
+                500000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        },
+        "7fc50fba-07f7-41de-b479-6b64d054836a": {
+            "form": "circle",
+            "layer": 30,
+            "parameter_class": "paste_corner3",
+            "params": [
+                100000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -200000,
+                    200000
+                ]
+            }
+        },
+        "bf6e5362-8bb2-412b-bba7-46596bae850c": {
+            "form": "rectangle",
+            "layer": 30,
+            "parameter_class": "paste1",
+            "params": [
+                500000,
+                400000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        },
+        "eaaff87b-de4e-4803-80ce-807611d1f6f6": {
+            "form": "circle",
+            "layer": 30,
+            "parameter_class": "paste_corner4",
+            "params": [
+                100000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -200000,
+                    -200000
+                ]
+            }
+        },
+        "fd0ca5e0-6eb9-4a3c-a6d6-60af6f285552": {
+            "form": "circle",
+            "layer": 30,
+            "parameter_class": "paste_corner1",
+            "params": [
+                100000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    200000,
+                    200000
+                ]
+            }
+        }
+    },
+    "type": "padstack",
+    "uuid": "f7b1d47f-cd78-40bd-a7f2-fb2ca9d28d7a",
+    "well_known_name": ""
+}

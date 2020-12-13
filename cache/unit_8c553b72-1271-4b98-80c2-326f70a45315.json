@@ -1,0 +1,116 @@
+{
+    "manufacturer": "Texas Instruments",
+    "name": "BQ21062",
+    "pins": {
+        "0829609a-0ac9-416a-b915-e2fcc438ebd4": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VINLS",
+            "swap_group": 0
+        },
+        "08eb85d2-8f9a-4aff-8db2-852f420c56ac": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "130a01a8-0acd-4fcf-a5a9-55df9980d971": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "1a66da5e-557a-444e-a7ad-2090db82c63f": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "PMID",
+            "swap_group": 0
+        },
+        "29469fa8-6f07-49cb-b3f5-4e2ccdc3aa76": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "~PG",
+            "swap_group": 0
+        },
+        "3c77f603-fa47-458e-8e7b-e4dc572d6eac": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SDA",
+            "swap_group": 0
+        },
+        "3f0d2739-926a-43d8-975b-8074593177a8": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "VIO",
+            "swap_group": 0
+        },
+        "412b6de0-0e5d-4712-82e7-c7e36b96304c": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~CE",
+            "swap_group": 0
+        },
+        "41c07822-2371-4d0e-a13d-764c585aab28": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "~INT",
+            "swap_group": 0
+        },
+        "6262091b-3a65-43d8-8808-c52d176cc8a0": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "NC2",
+            "swap_group": 0
+        },
+        "6f0835e4-aa19-4021-b69f-e4a624956b5d": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "BAT",
+            "swap_group": 0
+        },
+        "86ef6b4b-df6e-4a8c-889d-1fffb8931402": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC1",
+            "swap_group": 0
+        },
+        "88e776d8-a641-40aa-bea2-5b5e093b8515": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~LP",
+            "swap_group": 0
+        },
+        "99b521a2-bd0e-4d81-b9a6-7e7b93fa9f06": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~MR",
+            "swap_group": 0
+        },
+        "ad725ed0-cd99-444a-af69-dca675c27345": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SCL",
+            "swap_group": 0
+        },
+        "bfecc36c-ff5a-47c0-bcb6-d5135104ab59": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "LS/LDO",
+            "swap_group": 0
+        },
+        "ea0671f0-67a4-4613-914e-60b16c7bc329": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "IN",
+            "swap_group": 0
+        },
+        "eef052cf-ece0-49bc-92cb-8e71c6b63655": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "TS",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "8c553b72-1271-4b98-80c2-326f70a45315"
+}

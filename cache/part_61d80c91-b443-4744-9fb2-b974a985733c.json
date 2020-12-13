@@ -1,0 +1,65 @@
+{
+    "MPN": [
+        false,
+        "TLV758PDRV"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ti.com/lit/gpn/tlv758p"
+    ],
+    "description": [
+        false,
+        "500-mA, high-accuracy, adjustable LDO"
+    ],
+    "entity": "e4d08042-34c6-43aa-b153-ffc7639058f6",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "289f7033-05e1-4119-b386-076903fdd6da": "TLV758PDRVT",
+        "ea413495-ba2c-42e3-9edf-7b92d5774494": "TLV758PDRVR"
+    },
+    "package": "1447a769-d0d8-48a3-bd7a-47136d55daa9",
+    "pad_map": {
+        "5aa437e9-1eea-4017-919b-3ba588068cbb": {
+            "gate": "2d3bd29d-19d4-4956-9e05-541aeefd808d",
+            "pin": "5d6f3163-12ed-45c3-84f4-3e2c714771a6"
+        },
+        "8b9f55cd-3734-471a-be89-dd9bfb998278": {
+            "gate": "2d3bd29d-19d4-4956-9e05-541aeefd808d",
+            "pin": "2f2e33ae-ea54-4fc9-b2c0-e6be3e1d02e0"
+        },
+        "9db9bf68-06dd-446f-a7c6-5c59ce2bdf81": {
+            "gate": "2d3bd29d-19d4-4956-9e05-541aeefd808d",
+            "pin": "20f0495c-5e6e-4975-b440-1399ca09d3c3"
+        },
+        "b700126b-b73f-4d53-9149-863d61d9d02c": {
+            "gate": "2d3bd29d-19d4-4956-9e05-541aeefd808d",
+            "pin": "304699c2-7433-4b03-ad2c-c8df631dd06f"
+        },
+        "cab52523-0e12-464e-a9cd-d265d753c2a8": {
+            "gate": "2d3bd29d-19d4-4956-9e05-541aeefd808d",
+            "pin": "20f0495c-5e6e-4975-b440-1399ca09d3c3"
+        },
+        "e7623cae-2c20-4b0a-982f-dc24f7d5cdfb": {
+            "gate": "2d3bd29d-19d4-4956-9e05-541aeefd808d",
+            "pin": "559d5e91-2169-486b-9ece-8db9867957dd"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "ldo",
+        "regulator"
+    ],
+    "type": "part",
+    "uuid": "61d80c91-b443-4744-9fb2-b974a985733c",
+    "value": [
+        false,
+        ""
+    ]
+}

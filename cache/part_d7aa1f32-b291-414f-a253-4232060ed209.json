@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "RC0603FR-075K11L"
+    ],
+    "base": "f09213fb-baf4-4285-ab94-46fe3ca9ec7a",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "General Purpose Chip resistor 5.11 kΩ, 1%, 0.1 W"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Yageo"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {
+        "pmax": "0.1",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "5110"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "d7aa1f32-b291-414f-a253-4232060ed209",
+    "value": [
+        false,
+        "5.11 kΩ"
+    ]
+}

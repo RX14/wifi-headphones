@@ -1,0 +1,39 @@
+{
+    "MPN": [
+        false,
+        "TMK107BJ105KA"
+    ],
+    "base": "a26c8e74-076e-4a31-9d19-6e604363427a",
+    "datasheet": [
+        true,
+        "https://www.yuden.co.jp/productdata/catalog/mlcc_all_e.pdf"
+    ],
+    "description": [
+        false,
+        "Multilayer ceramic capacitor 1 µF, 25V, X5R"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Taiyo Yuden"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "90e94c16-bd29-4036-85cd-93303dd06664": "TMK107BJ105KA-T"
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "10",
+        "type": "X5R",
+        "value": "1e-06",
+        "wvdc": "25"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "94299cac-3f44-4439-932c-42d0a7daf61e",
+    "value": [
+        false,
+        "1 µF"
+    ]
+}
