@@ -322,11 +322,17 @@
                 "fde3dff4-cd57-40cd-a3eb-7e6d91ff1609/3f0d2739-926a-43d8-975b-8074593177a8": {
                     "net": "a2ff5640-fe35-4cfd-a0af-9e7ebb255490"
                 },
+                "fde3dff4-cd57-40cd-a3eb-7e6d91ff1609/6262091b-3a65-43d8-8808-c52d176cc8a0": {
+                    "net": "a6ee49b9-abc3-43f8-94cb-32ec61986865"
+                },
                 "fde3dff4-cd57-40cd-a3eb-7e6d91ff1609/6f0835e4-aa19-4021-b69f-e4a624956b5d": {
                     "net": "6f4f5dc6-d99c-42ed-b77e-7fce8bce5f38"
                 },
                 "fde3dff4-cd57-40cd-a3eb-7e6d91ff1609/86ef6b4b-df6e-4a8c-889d-1fffb8931402": {
                     "net": "a6ee49b9-abc3-43f8-94cb-32ec61986865"
+                },
+                "fde3dff4-cd57-40cd-a3eb-7e6d91ff1609/99b521a2-bd0e-4d81-b9a6-7e7b93fa9f06": {
+                    "net": "15c75fe6-c109-48bb-b85f-212c8a10d9d2"
                 },
                 "fde3dff4-cd57-40cd-a3eb-7e6d91ff1609/bfecc36c-ff5a-47c0-bcb6-d5135104ab59": {
                     "net": "b7a737cc-9d02-4360-b7eb-a9dddf1da9c3"
@@ -357,6 +363,13 @@
         }
     },
     "nets": {
+        "15c75fe6-c109-48bb-b85f-212c8a10d9d2": {
+            "is_power": false,
+            "name": "PWR_BTN",
+            "net_class": "96e5bc2a-8624-4335-9034-2a1d633a4c7f",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
         "6ce56581-de1b-4637-9d94-4d9669d26f06": {
             "is_power": false,
             "name": "",
@@ -380,7 +393,7 @@
         },
         "8cdced77-ecff-482e-a0bb-72ce782d82e7": {
             "is_power": false,
-            "name": "",
+            "name": "LDO_FB",
             "net_class": "96e5bc2a-8624-4335-9034-2a1d633a4c7f",
             "power_symbol_name_visible": true,
             "power_symbol_style": "gnd"
