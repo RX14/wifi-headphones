@@ -431,8 +431,10 @@
                     9875000
                 ]
             },
-            "smashed": false,
-            "texts": []
+            "smashed": true,
+            "texts": [
+                "ed8d5c66-63e9-43a7-8f48-9316cefef6a4"
+            ]
         },
         "42bfa040-b1fa-461e-8d60-03b33e0627b4": {
             "component": "e7dff87d-4507-476a-af17-1b61254bcfe5",
@@ -663,8 +665,10 @@
                     12125000
                 ]
             },
-            "smashed": false,
-            "texts": []
+            "smashed": true,
+            "texts": [
+                "33971580-dab9-42ec-a721-05500b3e605b"
+            ]
         },
         "eedc4179-2662-4738-998a-e787e39b6a08": {
             "component": "91b40ed6-4cd5-42c9-9faa-408cae77da11",
@@ -1134,6 +1138,18 @@
         }
     },
     "pnp_export_settings": {
+        "bottom_side": "bottom",
+        "column_names": {
+            "MPN": "MPN",
+            "angle": "Angle",
+            "manufacturer": "Manufacturer",
+            "package": "Package",
+            "refdes": "Ref. Des.",
+            "side": "Side",
+            "value": "Value",
+            "x": "X position",
+            "y": "Y position"
+        },
         "columns": [
             "refdes",
             "x",
@@ -1141,11 +1157,14 @@
             "angle",
             "side"
         ],
+        "customize": false,
         "filename_bottom": "",
         "filename_merged": "",
         "filename_top": "",
         "mode": "merged",
-        "output_directory": ""
+        "output_directory": "",
+        "position_format": "%.3m",
+        "top_side": "top"
     },
     "polygons": {
         "01e94a74-5aea-4cef-ab6c-317fc6b04269": {
@@ -2864,7 +2883,7 @@
                 "angle": 16384,
                 "mirror": true,
                 "shift": [
-                    -11000000,
+                    -10500000,
                     10750000
                 ]
             },
@@ -2898,7 +2917,7 @@
                 "angle": 16384,
                 "mirror": true,
                 "shift": [
-                    -9750000,
+                    -9250000,
                     10750000
                 ]
             },
@@ -2915,8 +2934,25 @@
                 "angle": 16384,
                 "mirror": true,
                 "shift": [
-                    -8500000,
+                    -8000000,
                     10750000
+                ]
+            },
+            "size": 1000000,
+            "text": "$RD",
+            "width": 150000
+        },
+        "33971580-dab9-42ec-a721-05500b3e605b": {
+            "font": "simplex",
+            "from_smash": true,
+            "layer": -120,
+            "origin": "center",
+            "placement": {
+                "angle": 16384,
+                "mirror": true,
+                "shift": [
+                    3000000,
+                    11250000
                 ]
             },
             "size": 1000000,
@@ -2932,7 +2968,7 @@
                 "angle": 0,
                 "mirror": true,
                 "shift": [
-                    -250000,
+                    -1250000,
                     14875000
                 ]
             },
@@ -2984,7 +3020,7 @@
                 "mirror": false,
                 "shift": [
                     -5750000,
-                    9000000
+                    8750000
                 ]
             },
             "size": 1000000,
@@ -3000,7 +3036,7 @@
                 "angle": 16384,
                 "mirror": false,
                 "shift": [
-                    -5750000,
+                    -5500000,
                     12750000
                 ]
             },
@@ -3017,7 +3053,7 @@
                 "angle": 0,
                 "mirror": true,
                 "shift": [
-                    -500000,
+                    0,
                     7000000
                 ]
             },
@@ -3034,7 +3070,7 @@
                 "angle": 0,
                 "mirror": true,
                 "shift": [
-                    -500000,
+                    0,
                     8250000
                 ]
             },
@@ -3051,7 +3087,7 @@
                 "angle": 16384,
                 "mirror": false,
                 "shift": [
-                    5000000,
+                    4750000,
                     12500000
                 ]
             },
@@ -3085,8 +3121,25 @@
                 "angle": 16384,
                 "mirror": true,
                 "shift": [
-                    2000000,
-                    10000000
+                    500000,
+                    12250000
+                ]
+            },
+            "size": 1000000,
+            "text": "$RD",
+            "width": 150000
+        },
+        "ed8d5c66-63e9-43a7-8f48-9316cefef6a4": {
+            "font": "simplex",
+            "from_smash": true,
+            "layer": -120,
+            "origin": "center",
+            "placement": {
+                "angle": 49152,
+                "mirror": true,
+                "shift": [
+                    3000000,
+                    10750000
                 ]
             },
             "size": 1000000,
