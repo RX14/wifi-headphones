@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "RC0603FR-0710KL"
+    ],
+    "base": "f09213fb-baf4-4285-ab94-46fe3ca9ec7a",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "General Purpose Chip resistor 10 kΩ, 1%, 0.1 W"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Yageo"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {
+        "pmax": "0.1",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "10000"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "9c339c9d-675c-4604-961a-3693fe6e7f5a",
+    "value": [
+        false,
+        "10 kΩ"
+    ]
+}
