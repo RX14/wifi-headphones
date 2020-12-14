@@ -16,13 +16,12 @@
             "shape": "round"
         }
     },
-    "name": "Circular via",
+    "name": "Circular via (tented)",
     "padstack_type": "via",
-    "parameter_program": "get-parameter [ via_diameter ]\nset-shape [ via circle ]\n\nget-parameter [ hole_diameter ]\ndup\nset-hole [ hole round ]\n\nget-parameter [ via_solder_mask_expansion ] 2 *\n+\nset-shape [ mask circle ]",
+    "parameter_program": "get-parameter [ via_diameter ]\nset-shape [ via circle ]\n\nget-parameter [ hole_diameter ]\nset-hole [ hole round ]\n",
     "parameter_set": {
         "hole_diameter": 400000,
-        "via_diameter": 700000,
-        "via_solder_mask_expansion": 100000
+        "via_diameter": 700000
     },
     "parameters_required": [
         "hole_diameter",
@@ -30,38 +29,6 @@
     ],
     "polygons": {},
     "shapes": {
-        "0fcc5be3-fa35-464c-ac89-7bfaea0821da": {
-            "form": "circle",
-            "layer": -110,
-            "parameter_class": "mask",
-            "params": [
-                600000
-            ],
-            "placement": {
-                "angle": 0,
-                "mirror": false,
-                "shift": [
-                    0,
-                    0
-                ]
-            }
-        },
-        "1919564e-4dfd-4afa-ae6b-b06ddcefb9e6": {
-            "form": "circle",
-            "layer": 10,
-            "parameter_class": "mask",
-            "params": [
-                600000
-            ],
-            "placement": {
-                "angle": 0,
-                "mirror": false,
-                "shift": [
-                    0,
-                    0
-                ]
-            }
-        },
         "3d4a1caa-13a9-4828-aee6-4ec776b4f007": {
             "form": "circle",
             "layer": -1,
@@ -112,5 +79,6 @@
         }
     },
     "type": "padstack",
-    "uuid": "3c4a52fe-3ae0-4c3e-a108-824b53d6d6da"
+    "uuid": "8b6dee4b-af88-4c0f-b38b-c5364649e65e",
+    "well_known_name": ""
 }
