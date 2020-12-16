@@ -1,16 +1,16 @@
 {
     "MPN": [
         false,
-        "GRM188R71H104KA93"
+        "GRM32ER71J106KA12"
     ],
-    "base": "cab72b27-6d92-47d2-9694-d5f2b4b74d91",
+    "base": "e747f155-6606-4a43-b5fd-69c43dc541fd",
     "datasheet": [
         false,
-        "https://www.murata.com/en-us/products/productdetail.aspx?partno=GRM188R71H104KA93%23"
+        "https://www.murata.com/en-us/products/productdetail.aspx?partno=GRM32ER71J106KA12%23"
     ],
     "description": [
         false,
-        "MLCC General Purpose 100 nF, 50 V, X7R"
+        "MLCC General Purpose 10 \u00b5F, 63 V, X7R"
     ],
     "inherit_model": true,
     "inherit_tags": true,
@@ -24,14 +24,14 @@
         "table": "capacitors",
         "tolerance": "10",
         "type": "X7R",
-        "value": "1.0000e-07",
-        "wvdc": "50"
+        "value": "1.0000e-05",
+        "wvdc": "63"
     },
     "tags": [],
     "type": "part",
-    "uuid": "b7c0d2aa-745f-4370-8123-4ee14d03eb50",
+    "uuid": "324f96af-5a80-4c47-8f15-32fad6f44ff3",
     "value": [
         false,
-        "100 nF"
+        "10 \u00b5F"
     ]
 }

@@ -1,0 +1,38 @@
+{
+    "MPN": [
+        false,
+        "LQW18AN2N2D00"
+    ],
+    "base": "58c0d801-044e-4eff-a5ea-4fff78c17b98",
+    "datasheet": [
+        true,
+        "https://search.murata.co.jp/Ceramy/image/img/P02/JELF243A-0024.pdf"
+    ],
+    "description": [
+        true,
+        "Wirewound chip inductor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Murata"
+    ],
+    "model": "1970325e-be16-42a3-81b7-9383e57fae3f",
+    "orderable_MPNs": {
+        "9fa10f5e-cc4d-4b00-a525-e30033f5fb10": "LQW18AN2N2D00D"
+    },
+    "parametric": {
+        "dcr": "0.042",
+        "idc": "0.7",
+        "table": "inductors",
+        "value": "2.2e-09"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "d46d2833-67ee-4d2c-b0c6-34f6662374a5",
+    "value": [
+        false,
+        "2.2 nH"
+    ]
+}

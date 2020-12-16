@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "ea416f67-1256-46c6-8e81-2cb6b410024b": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "56bbbe2e-f316-445a-bf56-d452073f2a18"
+        }
+    },
+    "manufacturer": "Espressif",
+    "name": "ESP32-S2",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "53c7fcf2-3aa5-499a-8d2f-c7b8ceedd504"
+}
