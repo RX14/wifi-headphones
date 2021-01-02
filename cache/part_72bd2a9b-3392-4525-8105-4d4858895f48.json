@@ -1,16 +1,16 @@
 {
     "MPN": [
         false,
-        "C3225X7R1C226M250AC"
+        "C1608X5R1E225K080AB"
     ],
-    "base": "83d58ab9-876c-4255-93f2-2c7b442de2a0",
+    "base": "1f7d1953-3796-4530-951b-ed671d8d36a0",
     "datasheet": [
         false,
-        "https://product.tdk.com/info/en/documents/chara_sheet/C3225X7R1C226M250AC.pdf"
+        "https://product.tdk.com/info/en/documents/chara_sheet/C1608X5R1E225K080AB.pdf"
     ],
     "description": [
         false,
-        "Ceramic Capacitor 22 \u00b5F 16 V X7R"
+        "Ceramic Capacitor 2.2 \u00b5F 25 V X5R"
     ],
     "inherit_model": true,
     "inherit_tags": true,
@@ -21,16 +21,16 @@
     "model": "96c366ee-a963-41a0-9cc8-54c646979695",
     "parametric": {
         "table": "capacitors",
-        "tolerance": "20",
-        "type": "X7R",
-        "value": "2.2000e-05",
-        "wvdc": "16.0"
+        "tolerance": "10",
+        "type": "X5R",
+        "value": "2.2000e-06",
+        "wvdc": "25.0"
     },
     "tags": [],
     "type": "part",
-    "uuid": "bc8feff3-ca05-471a-aaa3-4087e170f476",
+    "uuid": "72bd2a9b-3392-4525-8105-4d4858895f48",
     "value": [
         false,
-        "22 \u00b5F"
+        "2.2 \u00b5F"
     ]
 }

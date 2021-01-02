@@ -1,9 +1,9 @@
 {
     "MPN": [
         false,
-        "GRM32x 1210 base"
+        "GRM18x 0603 base"
     ],
-    "base": "ce744d78-f7d9-4997-8666-fd10d77eccb6",
+    "base": "436da8ee-a0a4-4ab4-ae41-10323bb580e5",
     "datasheet": [
         false,
         "https://www.murata.com/-/media/webrenewal/support/library/catalog/products/capacitor/ceramiccapacitor/c02e.ashx"
@@ -18,11 +18,11 @@
         false,
         "Murata"
     ],
-    "model": "43bad17b-ab78-4d5a-8cc8-f5c0fcafe87f",
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
     "parametric": {},
     "tags": [],
     "type": "part",
-    "uuid": "e747f155-6606-4a43-b5fd-69c43dc541fd",
+    "uuid": "cab72b27-6d92-47d2-9694-d5f2b4b74d91",
     "value": [
         false,
         ""

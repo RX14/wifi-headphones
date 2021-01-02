@@ -1,9 +1,9 @@
 {
     "MPN": [
         false,
-        "C 1210 Capacitor Base Part"
+        "C 0603 Capacitor Base Part"
     ],
-    "base": "ce744d78-f7d9-4997-8666-fd10d77eccb6",
+    "base": "436da8ee-a0a4-4ab4-ae41-10323bb580e5",
     "datasheet": [
         false,
         ""
@@ -22,7 +22,7 @@
     "parametric": {},
     "tags": [],
     "type": "part",
-    "uuid": "83d58ab9-876c-4255-93f2-2c7b442de2a0",
+    "uuid": "1f7d1953-3796-4530-951b-ed671d8d36a0",
     "value": [
         true,
         "base 0402 capacitor"
